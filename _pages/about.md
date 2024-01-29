@@ -20,12 +20,16 @@ Turbulence (turbulent flows), usually referred to as the most important unsolved
 
 <img src="/images/theStarryNight.jpg" alt="The Starry Night of Van Gogh">
 
-Yet, formidable challenges go with the beauty of turbulent flows: nonlinearity, multi-scale nature, irregularity, just to name a few. As said by Guy Beart, 
+Yet, formidable challenges go with the beauty of turbulent flows: nonlinearity, multi-scale nature, and irregularity, just to name a few. As said by Guy Beart, 
 
 > Turbulence toiler, on the rack,  
-> For each steap forward, two steps back!
+> For each step forward, two steps back!
 
 Though turbulence research is paved with adversities, it is still worth fighting for.
+
+## Reference
+
+> Davidson, P. A., Kaneda, Y., Moffatt, K., & Sreenivasan, K. R. (Eds.). (2011). A Voyage Through Turbulence. Cambridge: Cambridge University Press.
 
 Research Interests
 ======
