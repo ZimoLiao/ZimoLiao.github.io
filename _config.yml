@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Zimo Liao"
-  avatar           : "profile.png"
-  bio              : "I am a PhD candidate in the Department of Modern Mechanics at University of Science and Technology of China (USTC). I have a broad interest in fluid dynamics and related interdisciplinary approaches."
+  avatar           : "profile.jpeg"
+  bio              : "A PhD candidate at USTC, studying fluid dynamics (turbulence) through numerical simulation and theoretical analysis"
   location         : "Hefei, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
